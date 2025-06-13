@@ -15,33 +15,33 @@ Two CSV files were used to develop this dashboard:
 
 ## Visuals Included
 1. **Sales and Profit Overview**
-- Sum of Amount, Profit, Quantity, and AOV shown as KPI cards.
+  - Sum of Amount, Profit, Quantity, and AOV shown as KPI cards.
 
 2. **State-wise Sales**
-- Bar chart showing sales distribution across states like Maharashtra, Madhya Pradesh, etc.
+  - Bar chart showing sales distribution across states like Maharashtra, Madhya Pradesh, etc.
 
 3. **Monthly Profit Trend**
-- Clustered bar chart showing fluctuations in profit across months.
-- Notable losses seen in May, June, July, and December.
+  - Clustered bar chart showing fluctuations in profit across months.
+  - Notable losses seen in May, June, July, and December.
 
 4. **Category-wise Quantity Sold**
-- Donut chart indicating major quantity sold under:
-  - Clothing (63%)
-  - Electronics (21%)
-  - Furniture (17%)
+  - Donut chart indicating major quantity sold under:
+    - Clothing (63%)
+    - Electronics (21%)
+    - Furniture (17%)
 
 5. **Top Customers by Purchase Amount**
-- Bar chart with top customers: Harivansh, Madhav, etc.
+  - Bar chart with top customers: Harivansh, Madhav, etc.
 
 6. Payment Mode Distribution
-- Donut chart showing:
-  - Cash on Delivery (44%)
-  - UPI (21%)
-  - Debit/Credit Cards (25%)
-  - EMI (10%)
+  - Donut chart showing:
+    - Cash on Delivery (44%)
+    - UPI (21%)
+    - Debit/Credit Cards (25%)
+    - EMI (10%)
 
 7. **Sub-Category Profitability**
-- Bar chart showing top profit-generating sub-categories like Printers and Bookcases.
+  - Bar chart showing top profit-generating sub-categories like Printers and Bookcases.
 
 ## Tools & Technologies Used
 - **Power BI** for dashboard creation and data visualization
