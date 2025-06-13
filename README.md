@@ -40,7 +40,7 @@ Two CSV files were used to develop this dashboard:
     - Debit/Credit Cards (25%)
     - EMI (10%)
 
-7. **Sub-Category Profitability**
+**7. Sub-Category Profitability**
   - Bar chart showing top profit-generating sub-categories like Printers and Bookcases.
 
 ## Tools & Technologies Used
